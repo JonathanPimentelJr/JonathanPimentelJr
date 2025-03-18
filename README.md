@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on indie game development
 - 🤔 I’m looking for help with Leetcode prep 
 - 💬 Ask me about fullstack development and Marvel comics 
-- 📫 How to reach me: Instagram: JonathanPimentelJr LinkedIn: JonathanPimenteljr
+- 📫 How to reach me: Instagram: JonathanPimentelJr LinkedIn: https://www.linkedin.com/in/jonathanpimentel-892352252/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am life-long comic and video game enthusiast, been reading/playing since I was 3 years old 
 
